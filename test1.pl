@@ -1,5 +1,3 @@
-#!/usr/bin/perl
-
 use Data::Dumper;
 
 my (%test_hash)=(
